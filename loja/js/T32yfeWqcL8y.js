@@ -135,7 +135,7 @@ function showFinalScreen() {
 }
 
 function resgatarPremio() {
-    window.location.href = "https://loja.pegueoseu.fun";
+    window.location.href = "https://mundocrocslegal.vercel.app";
 }
 
 window.onload = loadQuestion;
@@ -148,3 +148,4 @@ document.addEventListener("DOMContentLoaded", function () {
         popup.classList.add("hidden");
     });
 });
+
